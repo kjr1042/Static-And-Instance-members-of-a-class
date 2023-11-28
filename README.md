@@ -25,7 +25,6 @@ Description: Variables and methods specific to individual instances of the class
 
 **Example**:
  ```java
-
 public class MyClass {
     int instanceVariable;
     
@@ -36,7 +35,6 @@ public class MyClass {
 
 Examples
 Explore a variety of scenarios related to both static and instance members, including:
-
 Using static variables for shared state across instances.
 Implementing static methods for utility functions.
 Utilizing instance variables to store object-specific data.
