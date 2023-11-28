@@ -20,7 +20,7 @@ Java introduces two essential types of class members: static and instance. Under
       }
   }
 
- ### **2. Instance Variables and Methods**
+ ### 2. Instance Variables and Methods
 -**Description**: Variables and methods specific to individual instances of the class.
 
 **Example**:
